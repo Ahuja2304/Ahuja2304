@@ -1,102 +1,75 @@
-<!-- ========================= PROFILE HEADER ========================= -->
-
-<h1 align="center">Pranav Ahuja</h1>
-<h3 align="center">Full-Stack Developer | Systems Builder | CSE Undergraduate</h3>
+<!-- ================= HEADER ================= -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Pranav%20Ahuja&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%7C+Backend+Focused;DSA+Enthusiast;Building+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranavahuja1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="mailto:YOURMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:pranavahuja2304@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
-  <a href="https://github.com/YOURUSERNAME">
-    <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Ahuja2304">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-- 🎓 3rd Year Computer Science Engineering Student  
-- 📊 CGPA: 8.7  
-- 💻 Focused on Data Structures & Algorithms  
-- ⚙️ Building Full-Stack Applications  
-- 🎯 Targeting strong product-based placements  
-
-I build practical systems, not tutorial clones.  
-Consistency > Motivation.
-
----
-
-## 🔥 Current Focus
+Computer Science Engineering student focused on:
 
 - Data Structures & Algorithms  
 - Backend Development (Java, REST APIs)  
-- Frontend Development  
-- Database Design  
-- System Design Fundamentals  
+- Full-Stack Application Development  
+- Database Design & Optimization  
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-`Java` `Python` `Dart` `SQL`
-
-### Frameworks & Tools
-`Flutter` `FastAPI` `Docker` `Git` `Linux`
-
-### Databases
-`PostgreSQL` `MongoDB` `SQLite`
-
----
-
-## 📌 Featured Projects
-
-### 🧠 AI-Based Event Management Platform
-An intelligent event planning system that:
-- Recommends event packages based on budget
-- Connects users with local vendors
-- Includes seller rating & moderation system
-- Tracks progress with verification workflows
-- Real-time chat between users and providers
-
----
-
-### 🚗 Automotive Information Platform
-A structured vehicle database platform:
-- Brand-sorted SQLite architecture
-- Detailed vehicle specifications
-- Maintenance insights
-- Long-term goal: intelligent automotive assistant
-
----
-
-## 📈 Discipline & Growth
-
-- 🏃 5K runs & consistent fitness routine  
-- 📚 Daily coding practice  
-- 📅 Weekly DSA problem solving  
-- 📊 Long-term compounding mindset  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&hide_border=true" width="48%" />
+  <img src="https://skillicons.dev/icons?i=java,python,dart,js,flutter,fastapi,nodejs,docker,git,linux,mongodb,postgres,sqlite" />
 </p>
 
 ---
 
-## ⚡ Philosophy
+## 📌 Projects
 
-> Build. Improve. Repeat.  
-> Small daily gains create long-term unfair advantage.
+### 🧠 AI Event Management Platform
+- AI-based event package recommendations  
+- Vendor onboarding & rating system  
+- Moderation workflow with verification  
+- Real-time communication system  
+
+### 🚗 Automotive Information Platform
+- Structured SQLite car database  
+- Brand-wise architecture  
+- Technical specifications & maintenance insights  
+- Designed for scalability  
 
 ---
 
-<h3 align="center">Let’s Build Something Meaningful.</h3>
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night&hide_border=true" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=footer" />
+</p>
